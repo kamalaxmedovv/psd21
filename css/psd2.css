@@ -1,0 +1,132 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+}
+
+body{
+    background-color: #6ac1e3;
+}
+
+.container{
+    max-width: 350px;
+    margin: auto;
+}
+
+#general{
+    opacity: 0.902;
+width: 440px;
+height: 493px;
+border-radius: 5px;
+filter: drop-shadow(0px 8px 10px rgba(0,1,1,0.26));
+background-color: #ffffff;
+}
+
+.h1{
+    font-size: 24px;
+line-height: 28px;
+text-transform: uppercase;
+color: #4f4f4f;
+font-weight: bold;
+font-family: "Proxima Nova";
+padding-top: 30px;
+}
+
+#form{
+    opacity: 0.800;
+font-size: 14px;
+letter-spacing: 2px;
+line-height: 28px;
+text-transform: uppercase;
+color: #4f4f4f;
+font-weight: bold;
+font-family: "Proxima Nova";
+margin-top: 20px;
+
+
+}
+
+#Email{
+    padding: 5px ;
+    width: 320px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.checkbox{
+    font-size: 14px;
+    line-height: 28px;
+    color: #8b8b8b;
+    font-weight: bold;
+    font-family: "Proxima Nova";
+
+
+}
+
+.href{
+    text-decoration: solid;
+float: right;
+font-size: 14px;
+line-height: 28px;
+color: #04a9f4;
+font-weight: bold;
+font-family: "Proxima Nova";
+
+}
+
+.button{
+    width: 352px;
+height: 55px;
+border-radius: 4px;
+filter: drop-shadow(0px 3px 0px #0075aa);
+background-color: #0896d7;
+border: none;
+
+font-size: 22px;
+line-height: 28px;
+text-transform: uppercase;
+color: #ffffff;
+font-weight: bold;
+font-family: "Proxima Nova";
+text-align: center;
+filter: drop-shadow(0px -1px 0px rgba(0,0,0,0.2));
+}
+
+
+.button1{
+    margin-top: 60px;
+    width: 170px;
+height: 36px;
+border-radius: 6px;
+background-color: #3162a2;
+border: none;
+
+font-size: 14px;
+letter-spacing: 1px;
+line-height: 20px;
+text-transform: uppercase;
+color: #ffffff;
+font-weight: bold;
+font-family: "Proxima Nova";
+text-align: center;
+}
+
+.button2{
+    margin-top: 60px;
+    width: 170px;
+height: 36px;
+border-radius: 6px;
+background-color: #00aaf4;
+border: none;
+
+font-size: 14px;
+letter-spacing: 1px;
+line-height: 20px;
+text-transform: uppercase;
+color: #ffffff;
+font-weight: bold;
+font-family: "Proxima Nova";
+text-align: center;
+}
+
+
